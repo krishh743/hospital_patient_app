@@ -1,0 +1,124 @@
+.patient-list-body {
+    background-image: url("https://t3.ftcdn.net/jpg/02/51/62/94/240_F_251629484_zP45QMzYdOA6KKzqAuaGCmxfOrSjMYvB.jpg");
+    /* background-repeat: no-repeat; */
+
+}
+
+.input-field {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.input-txt {
+    width: 100%;
+    max-width: 550px;
+    height: 60px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+    margin: 20px;
+    text-align: center;
+
+}
+
+.upload-image {
+    margin-left: 17px !important;
+}
+
+.input-field Button {
+    width: 250px;
+    height: 50px;
+    background-color: black;
+    margin-bottom: 20px;
+    font-size: 17px;
+
+}
+
+.find-patient-text {
+    font-size: 35px;
+    color: darkgreen;
+    font-weight: bold;
+}
+
+.dob-alignment {
+    margin-bottom: 10px !important;
+}
+
+.reason span {
+    color: red;
+}
+
+.patient-list {
+    width: 100%;
+    height: 200px;
+}
+
+.patient-photo {
+
+    width: 100%;
+    height: 100%;
+}
+
+.edit-btn-section {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.edit-btn {
+    width: 200px;
+    background-color: black !important;
+}
+
+.new-patient-image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+
+}
+
+.center-btn {
+    display: flex;
+    justify-content: center !important;
+}
+
+.edit-btn-1 {
+    background-color: black !important;
+    color: white !important;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+
+@media only screen and (max-width: 768px) {
+
+    /* styles for desktop */
+    .input-field {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    .input-txt {
+        width: 300px;
+        max-width: none;
+        margin-inline: 20px;
+        font-size: 22px;
+    }
+
+    .add-data-dialog {
+        text-align: center !important;
+    }
+
+    .css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+        margin-block: 20px;
+        text-align: center;
+    }
+}
