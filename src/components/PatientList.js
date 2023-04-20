@@ -148,14 +148,13 @@ const PatientList = () => {
                 />
             </div>
 
-
             <Box
                 sx={{
                     display: 'flex',
                     flexWrap: 'wrap',
                     '& > :not(style)': {
                         m: 5,
-                        width: 230,
+                        width: 330,
                     },
                 }}
             >

@@ -128,10 +128,9 @@ margin: 10px;
     min-height: 100vh;
   }
 
-  .text-box Stack{
+  .text-box{
     top: 40%;
     margin-top: 30px;
-flex-direction: column;
   }
 
   .heading-primary-main {
