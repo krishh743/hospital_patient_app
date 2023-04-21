@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hospital_patient_app/static/css/main.f77bf77d.css",
-    "main.js": "/hospital_patient_app/static/js/main.ed97ceaf.js",
+    "main.js": "/hospital_patient_app/static/js/main.c8fda075.js",
     "static/js/787.e17ab4de.chunk.js": "/hospital_patient_app/static/js/787.e17ab4de.chunk.js",
     "index.html": "/hospital_patient_app/index.html",
     "main.f77bf77d.css.map": "/hospital_patient_app/static/css/main.f77bf77d.css.map",
-    "main.ed97ceaf.js.map": "/hospital_patient_app/static/js/main.ed97ceaf.js.map",
+    "main.c8fda075.js.map": "/hospital_patient_app/static/js/main.c8fda075.js.map",
     "787.e17ab4de.chunk.js.map": "/hospital_patient_app/static/js/787.e17ab4de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f77bf77d.css",
-    "static/js/main.ed97ceaf.js"
+    "static/js/main.c8fda075.js"
   ]
 }
